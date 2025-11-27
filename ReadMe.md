@@ -1,4 +1,4 @@
-# HOW CREATE VPN VLESS(REALITY) TRANSPORT WITH XHTTP THROUGHT 3X-UI
+# How to create a VLESS (REALITY) VPN transport with XHTTP through 3X-UI
 ___
 XHTTP is a modern transport (data transmission method) for the VLESS protocol, which allows data to be transmitted using standard HTTP requests. A key feature of this technology is the ability to use CDN (Content Delivery Network) servers between the client and the server. In this tutorial, I will show how you can create your own VPN using the 3x-ui panel and the XHTTP technology.
 
