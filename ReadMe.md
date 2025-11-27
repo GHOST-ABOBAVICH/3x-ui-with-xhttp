@@ -1,4 +1,4 @@
-**HOW CREATE VPN VLESS(REALITY) TRANSPORT WITH XHTTP THROUGHT 3X-UI**
+# HOW CREATE VPN VLESS(REALITY) TRANSPORT WITH XHTTP THROUGHT 3X-UI
 ___
 XHTTP is a modern transport (data transmission method) for the VLESS protocol, which allows data to be transmitted using standard HTTP requests. A key feature of this technology is the ability to use CDN (Content Delivery Network) servers between the client and the server. In this tutorial, I will show how you can create your own VPN using the 3x-ui panel and the XHTTP technology.
 
@@ -11,7 +11,7 @@ ___
 - 1 CPU
 - 1 GB Ram
 - 10 GB Hardware
-- OC Uuntu 24x64
+- OC Ubuntu 24x64
 ### Setup
 ___
 The first thing to do is to change the server password that arrived in the email. You can use password generators for this or come up with your own password. I do not recommend using your own passwords because, as a rule, they are unreliable. It is best to generate a random set of characters using the command:
