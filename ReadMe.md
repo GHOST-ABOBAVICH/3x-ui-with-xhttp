@@ -101,7 +101,7 @@ Connection settings in 3x-ui:
 - Port: 443
 - Security: TLS
 - SNI: our domain/subdomain
-- Save"
+- Save
 ___
 ### Clients for different operating systems
 
