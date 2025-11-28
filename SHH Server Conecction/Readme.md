@@ -2,7 +2,7 @@
 ___
 ### Server purchase
 
-First of all, you must purchase a VPS/VDS server on any site you prefer; there is no particular difference here.
+First of all, you must purchase a VPS/VDS on any site you prefer,there is no particular difference here.
 ___
 
 ### Profile
