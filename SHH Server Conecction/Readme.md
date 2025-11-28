@@ -7,7 +7,7 @@ ___
 
 ### Profile
 
-In your profile, after purchase, you will see your ip login which is root by default and a generated password. You need to take this data and write it down, for example, in [Termius](https://termius.com/download/windows), a convenient and beautiful client. You can use whatever you like; I use this.
+In your profile, after purchase, you will see your ip login which is root by default and a generated password. You need to take this data and write it down, for example, in [Termius](https://termius.com/download/windows), a convenient client for me. You can use whatever you like.
 ___
 ### Termius
 
